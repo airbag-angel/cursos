@@ -41,4 +41,6 @@ En este módulo, te familiarizarás con los principios y etapas del pensamiento 
 
 #### [1. Bienvenida al curso](./lecciones/leccion1.md)
 
+#### 2. Introducción
+
 ### [Recursos](./lecciones/recursos.md)
